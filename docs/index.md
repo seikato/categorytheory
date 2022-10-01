@@ -22,4 +22,4 @@ $$
 \bf{\rm{Vect_k}} \leftrightarrows \bf{\rm{Set} }
 $$
 
-[代数](https://seikato.github.io/categorytheory/algebra.md
+[代数](https://seikato.github.io/categorytheory/algebra.md)
