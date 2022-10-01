@@ -21,3 +21,5 @@ $k$ を体とする。忘却関手 $U$、自由関手 $F$ と書くと、
 $$ 
 \bf{\rm{Vect_k}} \leftrightarrows \bf{\rm{Set} }
 $$
+
+[代数](https://seikato.github.io/categorytheory/algebra.md
