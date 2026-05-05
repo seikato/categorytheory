@@ -1,32 +1,37 @@
-# Category Theory Notes
+# About the Author
 
----
+<div class="grid cards" markdown>
 
-## About the Author
+- :material-account: **Personal Website**  
+  My main profile and background  
+  [Visit Site](https://sites.google.com/view/seikato/)
 
-### Social Media
+- :material-github: **GitHub**  
+  Code repositories and projects  
+  [View Profile](https://github.com/seikato/)
 
-- [Facebook](https://www.facebook.com/Dr.seikato)
-- [Instagram (Track & Field)](https://www.instagram.com/dr.seikato.track_field)
-- [Instagram (Main)](https://www.instagram.com/dr.seikato)
-- [X (Twitter)](https://x.com/seikato)
-- [Threads (Track & Field)](https://www.threads.com/@dr.seikato.track_field)
-- [Threads (Main)](https://www.threads.com/@dr.seikato)
+- :material-linkedin: **LinkedIn**  
+  Professional experience and career  
+  [View Profile](https://www.linkedin.com/in/seikato)
 
----
+- :material-twitter: **X (Twitter)**  
+  Thoughts, updates, and tech posts  
+  [Follow](https://x.com/seikato)
 
-### Professional & Web
+- :material-instagram: **Instagram**  
+  Daily life and track & field  
+  [Open](https://www.instagram.com/dr.seikato)
 
-- [Personal Website](https://sites.google.com/view/seikato/)
-- [About.me](https://about.me/seikato)
-- [LinkedIn](https://www.linkedin.com/in/seikato)
-- [GitHub](https://github.com/seikato/)
-- [Hugging Face](https://huggingface.co/sei-san)
+- :material-youtube: **YouTube**  
+  Lectures and mathematical content  
+  [Watch](https://www.youtube.com/user/bourbakichannel)
 
----
+- :material-brain: **Hugging Face**  
+  AI models and experiments  
+  [Explore](https://huggingface.co/sei-san)
 
-### Media
+- :material-web: **About.me**  
+  Simple profile hub  
+  [Visit](https://about.me/seikato)
 
-- [YouTube (Bourbaki Channel)](https://www.youtube.com/user/bourbakichannel)
-
----
+</div>
