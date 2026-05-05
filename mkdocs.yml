@@ -1,0 +1,41 @@
+site_name: Category Theory Notes
+site_description: Personal notes on category theory
+site_author: seikato
+repo_url: https://github.com/seikato/categorytheory
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    
+nav:
+  - Home: index.md
+  - Algebra: algebra.md
+
+docs_dir: docs
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+  - pymdownx.arithmatex:
+      generic: true
+
+  - pymdownx.superfences
+  - pymdownx.details
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css
+
+plugins:
+  - search
