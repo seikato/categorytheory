@@ -11,15 +11,6 @@
 ## 随伴の例
 
 ### 自由関手と忘却関手
-
-This sentence uses inline math:
-
-\[
-\sqrt{3x - 1} + (1 + x)^2
-\]
-
----
-
 $k$ を体とする。忘却関手 \( U \)、自由関手 \( F \) と書くと、
 
 $$
@@ -43,6 +34,17 @@ $$
 によって特徴付けられる。
 
 ---
+\subsection{自由$R$加群の構成}
+集合$E$と環$R$が与えられたとき，$E$を基底とする自由$R$加群を以下のように加群の直和により構成できる．
+\begin{equation}
+    R^{(E)} = \bigoplus_{e\in E} R.
+\end{equation}
+このとき，任意の$R^{(E)}$の要素は一意に
+\begin{equation}
+    \sum_{e\in E} c_e e
+\end{equation}
+と書ける．
+
 
 ## 関連ノート
 
