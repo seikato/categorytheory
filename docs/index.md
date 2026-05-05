@@ -5,7 +5,7 @@
 * https://www.facebook.com/Dr.seikato
 * https://sites.google.com/view/seikato/
 * https://www.instagram.com/dr.seikato.track_field
-* https://www.instagram.com/dr.seikato.track
+* https://www.instagram.com/dr.seikato
 * https://x.com/seikato
 * https://about.me/seikato
 * https://www.linkedin.com/in/seikato
