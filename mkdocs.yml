@@ -9,12 +9,12 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - toc.integrate
     - content.code.copy
     
 nav:
   - Home: index.md
   - Algebra: algebra.md
+  - Category: category.md
 
 docs_dir: docs
 
