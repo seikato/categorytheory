@@ -1,6 +1,7 @@
 # Category Theory
 
-- [Category](category.md)
-- [Algebra](algebra.md)
-- [Algebratic Topology](topology.md)
 - [Introduction](intro.md)
+- [Homologic Algebra](algebra.md)
+- [Algebratic Topology](topology.md)
+- [Category Theory](category.md)
+
