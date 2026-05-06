@@ -117,11 +117,11 @@ A **limit** of a diagram $D : \mathcal{J} \to \mathcal{C}$ is a terminal cone ov
         Limit                   Colimit
 
           L                    A   B
-                   / \                    \ /
-                           /   \         vs         C
-                                  A     B                (pushout)
-                                      (pullback)
-                                      ```
+         / \                    \ /
+        /   \         vs         C
+       A     B                (pushout)
+      (pullback)
+```
 
 ---
 
@@ -144,15 +144,15 @@ for any functor $F : \mathcal{C} \to \mathbf{Set}$ and object $A \in \mathcal{C}
 ```
    Objects & Morphisms       ←── Category
              │
-                       ▼
-                          Maps between categories   ←── Functor
-                                    │
-                                              ▼
-                                                 Maps between functors     ←── Natural Transformation
-                                                           │
-                                                                     ▼
-                                                                        Categories of categories  ←── 2-Category, ∞-Category
-                                                                        ```
+             ▼
+  Maps between categories   ←── Functor
+             │
+             ▼
+  Maps between functors     ←── Natural Transformation
+             │
+             ▼
+  Categories of categories  ←── 2-Category, ∞-Category
+```
 
 ---
 
