@@ -13,8 +13,10 @@ theme:
     
 nav:
   - Home: index.md
+  - Introduction: intro.md
   - Algebra: algebra.md
   - Category: category.md
+  - Topology: topology.md
 
 docs_dir: docs
 
