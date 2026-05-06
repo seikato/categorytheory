@@ -14,9 +14,9 @@ theme:
 nav:
   - Home: index.md
   - Introduction: intro.md
-  - Algebra: algebra.md
-  - Category: category.md
-  - Topology: topology.md
+  - Algebratic Topology: topology.md  
+  - Homologic Algebra: algebra.md
+  - Category Theory: category.md
 
 docs_dir: docs
 
